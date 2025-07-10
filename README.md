@@ -1,49 +1,62 @@
-🧩 Word Puzzle – Funny Word Guessing Game
-A fun and interactive word guessing game made with HTML, CSS, and Vanilla JavaScript. You’re given a hint in the form of a funny riddle or quirky fact — guess the word letter by letter before your chances run out!
 
-🎮 Live Demo
-👉 Play Now: word-puzzle-chi.vercel.app
+# 🧩 Word Puzzle – Funny Word Guessing Game
 
-🕹️ How to Play
-Click Start to begin a round.
+A fun and interactive word guessing game made with **HTML**, **CSS**, and **Vanilla JavaScript**. You’re given a hint in the form of a funny riddle or quirky fact — guess the word letter by letter before your chances run out!
 
-You'll see a funny riddle or fact as a hint.
+---
 
-Click the alphabet letters to guess the word.
+## 🎮 Live Demo
 
-You have 5 chances — guess wrong too many times, and it’s game over!
+👉 **Play Now:** https://word-puzzle-chi.vercel.app
 
-Get all letters right to win 🎉
+---
 
+## 🕹️ How to Play
 
-📁 Project Structure
-bash
-Copy code
+- Click **Start** to begin a round.
+- You'll see a **funny riddle or fact** as a hint.
+- Click the alphabet letters to guess the word.
+- You have **5 chances** — guess wrong too many times, and it’s game over!
+- Get all letters right to **win** 🎉
+
+---
+
+## 📁 Project Structure
+
+```
 Word-Puzzle/
 ├── index.html              # Game UI layout
 ├── style.css               # All styling and responsive design
 ├── script.js               # Game logic and word handling
 ├── Background image.jpg    # Fullscreen background
 ├── README.md               # Project guide
-🚀 Technologies Used
-HTML5
+```
 
-CSS3
+---
 
-JavaScript (Vanilla)
+## 🚀 Technologies Used
 
-Vercel (for deployment)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Vercel (for deployment)
 
-📦 How to Run Locally
-Clone the repo:
+---
 
-bash
-Copy code
-git clone https://github.com/karthikesh21/Word-Puzzle.git
-cd Word-Puzzle
-Open index.html in your browser.
+## 📦 How to Run Locally
 
-🌍 Hosting
-The game is deployed using Vercel, providing fast, free static hosting.
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/karthikesh21/Word-Puzzle.git
+   cd Word-Puzzle
+   ```
+2. Open `index.html` in your browser.
 
-✅ Live Site: word-puzzle-chi.vercel.app
+---
+
+## 🌍 Hosting
+
+The game is deployed using [Vercel](https://vercel.com), providing fast, free static hosting.
+
+> ✅ **Live Site:** [word-puzzle-chi.vercel.app](https://word-puzzle-chi.vercel.app)
+---
